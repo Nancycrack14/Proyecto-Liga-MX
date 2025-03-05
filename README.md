@@ -18,4 +18,4 @@ El objetivo principal de este análisis es entrenar un modelo capaz de predecir 
 
 **[-Ver HTML](LigaMX.html)**    
 **[-Descargar jupyter notebook](LigaMX.ipynb)**  
-**[-Descargar base de datos](LigaMX2016-2023.csv)**  
+**[-Descargar base de datos](LigaMx2016-2023.csv)**  
